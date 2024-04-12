@@ -1,0 +1,189 @@
+2024-04-12 18:14:55 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:14:57 [main] INFO  Calculator.i_enter_number1:38 - Entering first number 423
+2024-04-12 18:14:58 [main] INFO  Calculator.i_select_operation:45 - Click the operator *
+2024-04-12 18:14:58 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number 525
+2024-04-12 18:14:58 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  222075
+2024-04-12 18:14:58 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:15:01 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:15:05 [main] INFO  Calculator.i_enter_number1:38 - Entering first number 4000
+2024-04-12 18:15:06 [main] INFO  Calculator.i_select_operation:45 - Click the operator /
+2024-04-12 18:15:06 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number 200
+2024-04-12 18:15:06 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  20
+2024-04-12 18:15:06 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:15:08 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:15:12 [main] INFO  Calculator.i_enter_number1:38 - Entering first number -234234
+2024-04-12 18:15:12 [main] INFO  Calculator.i_select_operation:45 - Click the operator +
+2024-04-12 18:15:12 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number 345345
+2024-04-12 18:15:13 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  111111
+2024-04-12 18:15:13 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:15:15 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:15:18 [main] INFO  Calculator.i_enter_number1:38 - Entering first number 234823
+2024-04-12 18:15:19 [main] INFO  Calculator.i_select_operation:45 - Click the operator -
+2024-04-12 18:15:19 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number -23094823
+2024-04-12 18:15:20 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  23329646
+2024-04-12 18:15:20 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:57:49 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:57:52 [main] INFO  Calculator.i_enter_number1:38 - Entering first number 423
+2024-04-12 18:57:54 [main] INFO  Calculator.i_select_operation:45 - Click the operator *
+2024-04-12 18:57:54 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number 525
+2024-04-12 18:57:54 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  222075
+2024-04-12 18:57:54 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:57:56 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:58:00 [main] INFO  Calculator.i_enter_number1:38 - Entering first number 4000
+2024-04-12 18:58:01 [main] INFO  Calculator.i_select_operation:45 - Click the operator /
+2024-04-12 18:58:01 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number 200
+2024-04-12 18:58:01 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  20
+2024-04-12 18:58:01 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:58:03 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:58:07 [main] INFO  Calculator.i_enter_number1:38 - Entering first number -234234
+2024-04-12 18:58:08 [main] INFO  Calculator.i_select_operation:45 - Click the operator +
+2024-04-12 18:58:08 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number 345345
+2024-04-12 18:58:08 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  111111
+2024-04-12 18:58:08 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:58:10 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:58:15 [main] INFO  Calculator.i_enter_number1:38 - Entering first number 234823
+2024-04-12 18:58:15 [main] INFO  Calculator.i_select_operation:45 - Click the operator -
+2024-04-12 18:58:15 [main] INFO  Calculator.i_enter_number2:52 - Entering Second number -23094823
+2024-04-12 18:58:16 [main] INFO  Calculator.the_result_should_be:60 - Validating the result  23329646
+2024-04-12 18:58:16 [main] INFO  Calculator.Click_All_Clear_and_Close:68 - Closing the browser...
+2024-04-12 18:59:51 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 18:59:57 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  222075
+2024-04-12 18:59:57 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 18:59:58 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:00:04 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  20
+2024-04-12 19:00:04 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:00:05 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:00:11 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  111111
+2024-04-12 19:00:11 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:00:12 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:00:17 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  23329646
+2024-04-12 19:00:18 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:16:45 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:16:52 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  222075
+2024-04-12 19:16:53 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:16:55 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:17:00 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  20
+2024-04-12 19:17:00 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:17:02 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:17:07 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  111111
+2024-04-12 19:17:07 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:17:09 [main] INFO  Calculator.i_open_the_calculator_website:30 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:17:15 [main] INFO  Calculator.the_result_should_be:57 - Validating the result  23329646
+2024-04-12 19:17:15 [main] INFO  Calculator.Click_All_Clear_and_Close:65 - Closing the browser...
+2024-04-12 19:46:07 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:46:14 [main] INFO  Calculator.the_result_should_be:53 - Validating the result  222075
+2024-04-12 19:46:14 [main] INFO  Calculator.Click_All_Clear_and_Close:61 - Closing the browser...
+2024-04-12 19:46:16 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:46:20 [main] INFO  Calculator.the_result_should_be:53 - Validating the result  20
+2024-04-12 19:46:21 [main] INFO  Calculator.Click_All_Clear_and_Close:61 - Closing the browser...
+2024-04-12 19:46:23 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:46:27 [main] INFO  Calculator.the_result_should_be:53 - Validating the result  111111
+2024-04-12 19:46:27 [main] INFO  Calculator.Click_All_Clear_and_Close:61 - Closing the browser...
+2024-04-12 19:46:29 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:46:34 [main] INFO  Calculator.the_result_should_be:53 - Validating the result  23329646
+2024-04-12 19:46:34 [main] INFO  Calculator.Click_All_Clear_and_Close:61 - Closing the browser...
+2024-04-12 19:50:11 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 19:50:16 [main] INFO  Calculator.the_result_should_be:58 - Validating the result  423525
+2024-04-12 20:00:29 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:01:20 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:05:21 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:08:14 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:08:22 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:08:29 [main] INFO  Calculator.the_result_should_be:62 - Validating the result  20
+2024-04-12 20:08:29 [main] INFO  Calculator.Click_All_Clear_and_Close:70 - Closing the browser...
+2024-04-12 20:11:40 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:11:45 [main] ERROR Calculator.i_select_operation:44 - Invalid operator: ), Wrong input data
+2024-04-12 20:11:48 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:11:53 [main] INFO  Calculator.the_result_should_be:62 - Validating the result  20
+2024-04-12 20:11:53 [main] INFO  Calculator.Click_All_Clear_and_Close:70 - Closing the browser...
+2024-04-12 20:11:55 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:12:00 [main] ERROR Calculator.i_select_operation:44 - Invalid operator: =, Wrong input data
+2024-04-12 20:12:02 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:12:59 [main] INFO  Calculator.the_result_should_be:62 - Validating the result 0
+2024-04-12 20:13:44 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:13:50 [main] ERROR Calculator.i_select_operation:44 - Invalid operator: ), Wrong input data
+2024-04-12 20:13:52 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:13:57 [main] INFO  Calculator.the_result_should_be:62 - Validating the result  20
+2024-04-12 20:13:57 [main] INFO  Calculator.Click_All_Clear_and_Close:70 - Closing the browser...
+2024-04-12 20:13:59 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:14:05 [main] ERROR Calculator.i_select_operation:44 - Invalid operator: =, Wrong input data
+2024-04-12 20:14:08 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:15:16 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:15:22 [main] ERROR Calculator.i_select_operation:44 - Invalid operator: ), Wrong input data
+2024-04-12 20:15:25 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:15:30 [main] INFO  Calculator.the_result_should_be:62 - Validating the result  20
+2024-04-12 20:15:31 [main] INFO  Calculator.Click_All_Clear_and_Close:70 - Closing the browser...
+2024-04-12 20:15:33 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:15:37 [main] ERROR Calculator.i_select_operation:44 - Invalid operator: =, Wrong input data
+2024-04-12 20:15:40 [main] INFO  Calculator.i_open_the_calculator_website:26 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:15:47 [main] INFO  Calculator.the_result_should_be:62 - Validating the result  23329646
+2024-04-12 20:15:47 [main] INFO  Calculator.Click_All_Clear_and_Close:70 - Closing the browser...
+2024-04-12 20:22:17 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:22:30 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:22:41 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  20
+2024-04-12 20:22:41 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:22:44 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:22:57 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:23:13 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  23329646
+2024-04-12 20:23:13 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:25:17 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:25:31 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:25:39 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  20
+2024-04-12 20:25:39 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:25:42 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:25:49 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:25:54 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  23329646
+2024-04-12 20:25:55 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:28:01 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:28:05 [main] ERROR Calculator.i_select_operation:47 - Invalid operator: ), Wrong input data
+2024-04-12 20:28:08 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:28:12 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  20
+2024-04-12 20:28:12 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:28:16 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:28:20 [main] ERROR Calculator.i_select_operation:47 - Invalid operator: =, Wrong input data
+2024-04-12 20:28:22 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:28:28 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  23329646
+2024-04-12 20:28:28 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:31:40 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:31:46 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:31:51 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  20
+2024-04-12 20:31:51 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:31:53 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:32:00 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:32:09 [main] INFO  Calculator.the_result_should_be:65 - Validating the result  23329646
+2024-04-12 20:32:09 [main] INFO  Calculator.Click_All_Clear_and_Close:73 - Closing the browser...
+2024-04-12 20:35:41 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:35:45 [main] ERROR Calculator.i_select_operation:46 - Invalid operator: ), Wrong input data
+2024-04-12 20:35:47 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:35:52 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  Error
+2024-04-12 20:35:53 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:35:54 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:35:59 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  111111
+2024-04-12 20:35:59 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:36:00 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:36:05 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  23329646
+2024-04-12 20:36:05 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:39:21 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:39:26 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  222075
+2024-04-12 20:39:26 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:39:29 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:39:35 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  13.333333333
+2024-04-12 20:39:35 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:39:37 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:39:42 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  111111
+2024-04-12 20:39:42 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:39:44 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:39:49 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  23329646
+2024-04-12 20:39:50 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:45:58 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:46:03 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  222075
+2024-04-12 20:46:04 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:46:06 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:46:13 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  20
+2024-04-12 20:46:13 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:46:15 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:46:20 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  111111
+2024-04-12 20:46:20 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...
+2024-04-12 20:46:22 [main] INFO  Calculator.i_open_the_calculator_website:28 - Opening Calculator application.. https://www.calculator.net/
+2024-04-12 20:46:28 [main] INFO  Calculator.the_result_should_be:64 - Validating the result  23329646
+2024-04-12 20:46:28 [main] INFO  Calculator.Click_All_Clear_and_Close:72 - Closing the browser...

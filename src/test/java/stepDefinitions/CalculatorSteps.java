@@ -1,26 +1,32 @@
 package stepDefinitions;
 
-import org.openqa.selenium.WebDriver;
+import java.io.IOException;
+
+import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.testng.Assert;
-
-
-
 import io.cucumber.java.en.*;
 import io.github.bonigarcia.wdm.WebDriverManager;
-
+import junit.framework.Assert;
 import pageObjects.CalculatorHome;
 
-public class CalculatorSteps {
-	public WebDriver driver;
-	public CalculatorHome cal;
 
+
+public class CalculatorSteps extends BaseClass {
+	public CalculatorHome cal;
+	public  Logger log;
+	
 	@Given("I open the calculator website")
 	public void i_open_the_calculator_website() {
+		log = Logger.getLogger("Calculator");
+		PropertyConfigurator.configure("log4j.properties");
+		
 		WebDriverManager.chromedriver().setup();
 		driver = new ChromeDriver();
 		cal = new CalculatorHome(driver);
-		driver.get("https://www.calculator.net/");
+		
+		log.info("Opening Calculator application.. " + baseUrl);
+		driver.get(baseUrl);
 
 	}
 	
@@ -33,7 +39,16 @@ public class CalculatorSteps {
 
 	@When("I select {string} operation")
 	public void i_select_operation(String op) {
-		cal.clickOperationButton(op);
+		
+		if(op.equals("+")||op.equals("-") || op.equals("/") || op.equals("*") ) {
+			cal.clickOperationButton(op);
+		}else {
+			log.error("Invalid operator: " + op + ", Wrong input data");
+			driver.close();
+			Assert.assertFalse("Invalid operator: " + op + ", Wrong input data", true);		
+		}
+		
+		
 	}
 	
 
@@ -46,13 +61,15 @@ public class CalculatorSteps {
 	@Then("the result should be {string}")
 	public void the_result_should_be(String result) {
 		String resulttxt = cal.getResult();
-		Assert.assertEquals(result,resulttxt.replace(" ", ""));
+		log.info("Validating the result " +resulttxt);
+		Assert.assertEquals(result,resulttxt.replace(" ", ""));		
 	}
 	
 
 	@And("Click All Clear and Close")
 	public void Click_All_Clear_and_Close() {
 		cal.clickAllClear();
+		log.info("Closing the browser...");
 		driver.quit();
 	}
 
